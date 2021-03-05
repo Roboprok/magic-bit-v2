@@ -1,7 +1,8 @@
 # MagicBit
-[中文版](README_zh.md)
 
-[Emakefun](www.emakefun.com) magicbit expansion board for micro:bit
+Como usar cualquier control remoto con esta placa?
+https://github.com/Roboprok/cualquier-control-ir-con-magicbit-v2
+
 ![image](icon.png)
 
 ## Feature
