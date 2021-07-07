@@ -3,6 +3,10 @@
 Como usar cualquier control remoto con esta placa?
 https://github.com/Roboprok/cualquier-control-ir-con-magicbit-v2
 
+El pin 0 está ocupado por el zumbador integrado y el pin 1 está ocupado por el receptor de infrarrojos, sacar puente para que queden libres.
+Los neopixeles estan conectados en el pin 16. 
+
+
 ![image](icon.png)
 
 ## Feature
